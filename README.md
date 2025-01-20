@@ -6,7 +6,6 @@
 - 1 - React + NodeJS + Typescript.
 - 🌱 Learning Unity, Blender as a hobby.
 - 📫 You can send an e-mail to felipeprodev@gmail.com to contact-me.
-- 😄 Pronouns: He/Him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemsx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
