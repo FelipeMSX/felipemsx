@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working with two different stacks.
 - 1 - React + NodeJS + Typescript.
-- 2 - C# + Windows Forms + SQL Server.
-- 🌱 I’m currently learning Unity, Blender and React.
+- 🌱 Learning Unity, Blender as a hobby.
 - 📫 You can send an e-mail to felipeprodev@gmail.com to contact-me.
 - 😄 Pronouns: He/Him
 
