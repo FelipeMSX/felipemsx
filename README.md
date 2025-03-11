@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working with two different stacks.
-- 1 - React + NodeJS + Typescript.
+- 1 - SQL Server + .NET =>>> 8+ Years.
+- 2 - React + NodeJS + Typescript =>>> 3+ Years.
 - 🌱 Learning Unity, Blender as a hobby.
 - 📫 You can send an e-mail to felipeprodev@gmail.com to contact-me.
 
